@@ -1,0 +1,3 @@
+com\example\ibm\controller\ProductController.class
+com\example\ibm\service\ProductService.class
+com\example\ibm\bean\Product.class
