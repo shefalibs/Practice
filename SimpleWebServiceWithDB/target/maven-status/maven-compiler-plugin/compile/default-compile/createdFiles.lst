@@ -1,0 +1,6 @@
+com\example\ibm\model\Product.class
+com\example\ibm\DAO\ProductServiceDAOImpl.class
+com\example\ibm\DAO\ProductServiceDAO.class
+com\example\ibm\controller\ProductController.class
+com\example\ibm\service\ProductService.class
+com\example\ibm\service\ProductServiceImpl.class
